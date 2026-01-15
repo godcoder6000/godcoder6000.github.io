@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Andrew Gan",
     "section": "",
-    "text": "Hello I am Andrew Gan currently a Year 1 student in SIT studying Applied Computing (Fintech). Here is a funny photo of a baby \n\n1 + 1\n\n[1] 2"
+    "text": "Hello I am Andrew Gan currently a Year 1 student in SIT studying Applied Computing (Fintech).\n\n\n\nBaby\n\n\nHere is a funny photo of a baby"
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "reflection.html",
     "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "I utilized DeepSeek AI as my primary generative AI tool for this assessment. I chose this platform specifically because of its robust capability to generate, explain, and refine code implementations—particularly for data visualization tasks in R and Quarto. The tool proved instrumental in several key areas: it helped generate properly formatted R code for creating quantitative visualizations with appropriate chart types and aesthetics; it provided clear explanations of visualization principles and best practices; it assisted in debugging code syntax errors; and it offered guidance on structuring Quarto documents with proper figure labeling and cross-referencing. For example, when I needed to create a bar chart showing monthly expenses, DeepSeek not only generated the ggplot2 code but also explained how to add value labels, customize colors, and create accessible alt text for the visualization. Similarly, it helped structure the narrative around the visualization’s rationale and data story, ensuring the assessment requirements were comprehensively addressed."
+    "text": "I utilized DeepSeek AI as my primary generative AI tool for this assessment. I chose this platform specifically because of its robust capability to generate, explain, and refine code implementations—particularly for data visualization tasks in R and Quarto. The tool proved instrumental in several key areas: it helped generate properly formatted R code for creating quantitative visualizations with appropriate chart types and aesthetics; it provided clear explanations of visualization principles and best practices; it assisted in debugging code syntax errors; and it offered guidance on structuring Quarto documents with proper figure labeling and cross-referencing.\n\n\n\ndeepseek"
   }
 ]

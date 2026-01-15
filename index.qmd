@@ -4,9 +4,10 @@ title: "Andrew Gan"
 
 Hello I am Andrew Gan currently a Year 1 student in SIT studying
 Applied Computing (Fintech).
-Here is a funny photo of a baby
-![Baby](baby.jpg)
 
-```{r}
-1 + 1
-```
+![Baby](baby.jpg){style="float: left; margin-right: 20px; width: 200px;"}
+
+
+Here is a funny photo of a baby
+
+

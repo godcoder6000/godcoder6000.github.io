@@ -3,17 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Andrew Gan"
   favicon: favicon.png
+  page-navigation: true
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
+        text: About
       - href: data_visualisation.qmd
+        text: Data Visualisation
       - href: reflection.qmd
         text: Reflection
-      
+  
 
 format:
   html:
@@ -22,6 +26,8 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
+    
+
 
 
 
