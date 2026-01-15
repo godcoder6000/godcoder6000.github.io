@@ -3,31 +3,54 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrew Gan"
+  title: "Andrew Gan | SIT FinTech"
   favicon: favicon.png
   page-navigation: true
+  bread-crumbs: true
+  open-graph: true
+  repo-url: https://github.com/godcoder6000/godcoder6000.github.io
+  repo-actions: [edit, issue]
+  
   navbar:
+    background: "dark"
     search: true
+    collapse: false
+    pinned: true  # Stays at top when scrolling
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: FYP
       - href: data_visualisation.qmd
         text: Data Visualisation
       - href: reflection.qmd
         text: Reflection
-  
+    right:
+      - icon: github
+        href: https://github.com/godcoder6000
+
 
 format:
   html:
-    theme: darkly
+    theme: 
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
     toc-depth: 3
     toc-location: left
+    toc-expand: 2
+    number-sections: false
+    code-tools: true
+    code-copy: true
+    code-line-numbers: true
+    fig-align: center
+    fig-responsive: true
     
-
-
-
-
+    # Page layout
+    page-layout: full
+    margin-left: 5%
+    margin-right: 5%
+    
+    # Smooth scrolling
+    scrollspy: true

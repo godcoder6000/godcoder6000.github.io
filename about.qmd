@@ -2,6 +2,6 @@
 title: "FYP Project"
 ---
 
-This site is created as part of my Final Year Project (FYP) for my course in Temasek Polytechnic The purpose of this site was to code a restaurant website using JavaScript, HTML and CSS.
+This site is created as part of my Final Year Project (FYP) for my course in Temasek Polytechnic The purpose of this site was to code a restaurant website using JavaScript, HTML and CSS. 
 
 ![Restaurant](restaurant.jpg)

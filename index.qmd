@@ -3,11 +3,10 @@ title: "Andrew Gan"
 ---
 
 Hello I am Andrew Gan currently a Year 1 student in SIT studying
-Applied Computing (Fintech).
-
-![Baby](baby.jpg){style="float: left; margin-right: 20px; width: 200px;"}
+Applied Computing(Fintech). I play the drums, gym in my free time and listen to music.
 
 
-Here is a funny photo of a baby
+
+![](me.jpg){style="float: left; margin-right: 20px; width: 200px;"}
 
 
