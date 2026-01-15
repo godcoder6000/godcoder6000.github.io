@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Andrew Gan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello I am Andrew Gan currently a Year 1 student in SIT studying Applied Computing (Fintech).\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site is created as part of my Final Year Project (FYP) for my degree in Applied Computing (Fintech) at the Singapore Institute of Technology (SIT). The purpose of this site is to showcase my skills and knowledge in web development, data analysis, and financial technology.\n\n1 + 1\n\n[1] 2"
   }
 ]

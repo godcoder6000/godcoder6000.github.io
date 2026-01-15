@@ -4,6 +4,7 @@ project:
 
 website:
   title: "temp_website"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
@@ -12,11 +13,11 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

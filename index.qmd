@@ -1,10 +1,10 @@
 ---
-title: "temp_website"
+title: "Andrew Gan"
 ---
 
-This is a Quarto website.
+Hello I am Andrew Gan currently a Year 1 student in SIT studying
+Applied Computing (Fintech).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1

@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "FYP Project"
 ---
 
-About this site
+This site is created as part of my Final Year Project (FYP) for my degree in Applied Computing (Fintech) at the Singapore Institute of Technology (SIT). The purpose of this site is to showcase my skills and knowledge in web development, data analysis, and financial technology.
 
 ```{r}
 1 + 1
