@@ -1,0 +1,7 @@
+---
+title: "Data Visualisation"
+---
+
+For my Critical Thinking module, I had to come up with an idea to help SIT students study better which was a Smart Study Spot Finder. The data below shows the results of a survey conducted among SIT students to find out how useful our applications would be.
+
+![Study](study.jpg)
